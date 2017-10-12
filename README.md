@@ -1,6 +1,6 @@
 # Docker Bitcore
 
-This is a docker image of Bitcore.
+This is a docker image of Bitcore. Inspired by this repository: https://github.com/WooGenius/bitcore-docker
 
 ## Run
 
