@@ -1,5 +1,5 @@
 {
-  "description": "A full Bitcoin node build with Bitcore",
+  "description": "A full Bitcoin node build with Bitcore.",
   "license": "MIT",
   "readme": "README.md",
   "scripts": {
