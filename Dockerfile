@@ -1,5 +1,5 @@
 FROM node:4
-MAINTAINER Andrey Andreev <andyceo@yandex.ru> (@andyceo)
+MAINTAINER bernd
 ENV NETWORK livenet
 COPY ./bitcore /bitcore
 WORKDIR /bitcore
