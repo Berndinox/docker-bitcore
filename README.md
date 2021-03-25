@@ -1,3 +1,8 @@
+### outdated
+### for testing only
+### no warranty
+---------------------------
+
 # Docker Bitcore
 
 This is a working docker image of Bitcore. Inspired by this repository: https://github.com/WooGenius/bitcore-docker
